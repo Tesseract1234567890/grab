@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 
 body {
-    background-color: #0d5a2a;
-    color: #179a48;
+    background-color: hsl(249.47deg 12.58% 29.61%);
+    color: #14813d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color: #999;
+    color: #14813d;
 }
 
 .formBody {
@@ -43,7 +43,7 @@ h2 {
         border: 3px solid #179A48;
         background-color: #052611;
         height: 30px;
-        width: 250px;
+        width: 180px;
         padding-left: 12px;
         padding-right: 12px;
         font-size: 20px;
@@ -52,13 +52,13 @@ h2 {
 
     .formBody button {
         border-radius: 222px;
-        border: 3px solid #179A48;
+        border: 3px solid #14813d;
         background-color: #093c1c;
         height: 50px;
-        width: 230px;
+        width: 160px;
         padding-left: 12px;
         padding-right: 12px;
         font-size: 20px;
         font-family: 'Inter';
-        color: #29ff79;
+        color: #21d865;
     }
